@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]()
+
 <h1 align="center">Hi 👋, I'm Ratnesh Dubey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=667&h=500&auto=format"
