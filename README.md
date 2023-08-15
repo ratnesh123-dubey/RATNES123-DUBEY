@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=667&h=500&auto=format"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnesh123-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="ratnesh123-dubey" /> </p>
 
-- 🔭 I’m currently working on **Advance Java**
+- 🔭 I’m currently working on **SpringBoot Framework**
 
-- 🌱 I’m currently learning **Advance Java**
+- 🌱 I’m currently learning **System Design**
 
 - 📫 How to reach me **dubeyratnesh60@gmail.com**
 
